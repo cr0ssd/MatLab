@@ -1,0 +1,6 @@
+x = input('Introduzca el valor de x: ');
+y = input('Introduzca el valor de y: ');
+
+r = x + 8 * y;
+
+disp('El valor de r es: ' + num2str(r));
